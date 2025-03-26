@@ -34,7 +34,7 @@ bun add @nixjs23n6/react-nest-providers
 ## Example
 
 ```typescript
-import { buildProvidersTree } from 'react-nest-providers';
+import { buildProvidersTree } from '@nixjs23n6/react-nest-providers';
 
 const ProviderTree = buildProvidersTree([
   [AuthProvider],
