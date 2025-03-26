@@ -1,6 +1,6 @@
 {
     "name": "@nixjs23n6/react-nest-providers",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "A lightweight, type-safe utility for composing multiple React providers into a single, nested tree. Simplify your provider setup with a clean, declarative API that supports optional props and seamless integration with TypeScript. Perfect for managing context providers in large-scale React applications.",
     "main": "lib/cjs/index.js",
     "module": "lib/esm/index.js",
